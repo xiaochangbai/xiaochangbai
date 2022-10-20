@@ -1,43 +1,15 @@
-<a href="">
-  <img align="right" height=200px src="https://github-readme-stats.vercel.app/api?username=xiaochangbai&show_icons=true&count_private=true" />
-</a>
 
-
-### About Me
-
-<h1>求内推，坐标深圳</h1>
-  
-#### Skilled
-
-- Java
 
 <a href="">
   <img align="right" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaochangbai&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
 
-#### Competent
+
+<h1>~~~求内推，坐标深圳.</h1>
+  
 
 
-- Netty, Vert.x
-- Spring Framework
-- Application performance tuning
-- MySQL, Redis
-
-#### Average
-
-- Docker, Kubernetes
-
-
-#### Others
-
-- A  afafafasfdasfasfaas
-
-
-<br/>
-<a href="https://github.com/xiaochangbai">
-    <img align="right" src="https://profile-counter.glitch.me/xiaochangbai/count.svg" />
-</a>
 
 
 <!--
