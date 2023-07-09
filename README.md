@@ -4,9 +4,6 @@
   <img align="right" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaochangbai&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
-
-
-<h1>~~~求内推，坐标深圳.</h1>
   
 
 
